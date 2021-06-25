@@ -1,1 +1,1 @@
-# C12-Feed-The-Bunny
+# Project-Template-C12-Feed-the-rabbit
